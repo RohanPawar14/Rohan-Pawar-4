@@ -1,0 +1,7 @@
+{
+  "name": "Supplier Price Variance Monitor",
+  "description": "Enterprise procurement price variance (PPV) monitoring application with automated background scraping agents, historical cost analytics, threshold alerting, and supplier dispute workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
